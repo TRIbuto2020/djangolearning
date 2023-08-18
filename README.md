@@ -1,0 +1,2 @@
+# djangolearning
+Practice django app
